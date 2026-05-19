@@ -12,3 +12,7 @@ For contributions and comments: mehmet.arslanoglu@batman.edu.tr, mynet34@gmail.c
 
 ## Introduction:
 Important Note: Access to Google Earth Engine is currently only available to registered users.
+
+Testing and using the BATU-HA application code:
+Paste the "Batu-Ha-GEE-Code.js" file into the Google Earth Code Editor window and click the "Run" button.
+
