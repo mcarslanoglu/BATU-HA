@@ -36,6 +36,8 @@ The interface is divided into three main sections:
 
 2. Choosing an Analysis Region
 
+When the application is first opened, it focuses on the Bolu basin in the NAZF region of Turkey and conducts its hypsometric analyses.
+
 You can select a region for analysis using one of three methods:
 
 Method A: Pre-loaded Test Cases (Fastest)
