@@ -11,10 +11,13 @@ For contributions and comments: mehmet.arslanoglu@batman.edu.tr, mynet34@gmail.c
 -   [Web Code Editor](https://code.earthengine.google.com/)
 
 ## INTRODUCTION:
-Important Note: Access to Google Earth Engine is currently only available to registered users.
 
 Testing and using the BATU-HA application code:
 Paste the "BATU-HA-GEE-Code.js" file into the Google Earth Code Editor window and click the "Run" button.
+
+Important Note: Access to Google Earth Engine is currently only available to registered users.
+
+
 
 License: This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
