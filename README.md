@@ -10,7 +10,7 @@ For contributions and comments: mehmet.arslanoglu@batman.edu.tr, mynet34@gmail.c
 -   [Earth Engine Homepage](https://earthengine.google.com/)
 -   [Web Code Editor](https://code.earthengine.google.com/)
 
-## Introduction:
+## INTRODUCTION:
 Important Note: Access to Google Earth Engine is currently only available to registered users.
 
 Testing and using the BATU-HA application code:
