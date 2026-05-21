@@ -16,3 +16,4 @@ Important Note: Access to Google Earth Engine is currently only available to reg
 Testing and using the BATU-HA application code:
 Paste the "BATU-HA-GEE-Code.js" file into the Google Earth Code Editor window and click the "Run" button.
 
+License: This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
