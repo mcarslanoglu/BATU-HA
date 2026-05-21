@@ -12,12 +12,9 @@ For contributions and comments: mehmet.arslanoglu@batman.edu.tr, mynet34@gmail.c
 
 ## INTRODUCTION:
 
-Testing and inspecting the BATU-HA application code:
-Paste the "BATU-HA-GEE-Code.js" file into the Google Earth Code Editor window and click the "Run" button.
+To inspect and test the application's code, paste the BATU-HA-GEE-Code.js code into the Google Earth Engine Code Editor window and run it by pressing the Run button.
 
 Important Note: Access to Google Earth Engine is currently only available to registered users.
-
-
 
 License: This work is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
